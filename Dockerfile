@@ -22,14 +22,4 @@ EXPOSE 3000
 # Command to running your apps using 
 # CMD ["npm", "run","pm2logs"]
 
-CMD ["bash", "-c", "npm run pm2logs & npm run start"]
-
-
-~                                                                                                                                                                                                          
-~                                                                                                                                                                                                          
-~                                                                                                                                                                                                          
-~                                                                                                                                                                                                          
-~                                                                                                                                                                                                          
-~                                                                                                                                                                                                          
-~                                                                                                                                                                                                          
-~                                              
+CMD ["bash", "-c", "npm run pm2logs & npm run start"]~                                                                                                                                                                                                          ~                                                                                                                                                                                                         ~                                                                                                                                                                                                                                                                                                                                                                                                           ~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
