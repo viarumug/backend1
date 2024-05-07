@@ -18,6 +18,4 @@ spec:
       - name: backend
         image: 065882759854.dkr.ecr.us-east-1.amazonaws.com/hadiya1:latest
         ports:
-        - containerPort: 3000
-~                                                                                                                                                                                                          
-~                                  
+        - containerPort: 3000                                                                                                                                                                                                       
